@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: http://portfolio-nv.zzz.com.ua/
+Sitemap: javascript:submitBrowseForm('/portfolio-nv.zzz.com.ua','sitemap.xml','downloadfile','');
